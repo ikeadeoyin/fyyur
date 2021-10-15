@@ -1,0 +1,16 @@
+node_modules
+
+migrations/
+
+*.pyc
+__pycache__
+*.py[cod]
+*$py.class
+venv/
+
+instance/*
+!instance/.gitignore
+.webassets-cache
+.env
+
+instance/
